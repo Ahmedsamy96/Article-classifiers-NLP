@@ -1,0 +1,38 @@
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>FlaskApp</title>
+</head>
+
+<body>
+<br><br>
+<br><br>
+<br><br>
+<div class="content">
+
+	<header>
+		<div class="container">
+		<h1 id="brandname" style="background-color:powderblue;">
+			Topics's Category Detector App with Flask
+		</h1>
+		<h2 style="background-color:tomato;">Please, Enter youe Topic Title</h2>
+		
+	</div>
+	</header>
+
+<form  method="POST" action="{{ url_for('predict')}}">
+   <center>  <textarea name="message" rows="4" cols="50" lang="en"></textarea>
+<br> <br>
+   <input type="submit" style="color:white; background-color:dodgerblue; border-radius: 4px;padding: 10px 24px;" ></center>
+
+</form>
+</div>
+</body>
