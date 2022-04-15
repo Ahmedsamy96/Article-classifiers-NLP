@@ -24,3 +24,9 @@
 
 5. **Model Training** 🏃‍♂️: 
 
+<h3 align="left">Tools & Libraries ✂🛒:</h3>
+- jupyter Notebook (python 3)
+- BeautifulSoup for web scraping
+- NLTK for text processing
+- LSTM model - Logistic Regression & Naive Bayes
+- Flask for Deployment
