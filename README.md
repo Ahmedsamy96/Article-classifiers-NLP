@@ -1,6 +1,14 @@
- <h1 align="center">🧠🧾 Article classifiers NLP</h1>
+ <h1 align="center">🧠🧾 Article's Topics Classifier using NLP</h1>
 
 <h3 align="left"> End-to-End NLP pipeline for topics classification using deep learning ( LSTM ).</h3>
+
+<h3 align="left">Tools & Libraries 🛒:</h3>
+
+- jupyter Notebook (python 3).
+- BeautifulSoup for web scraping.
+- NLTK for text processing.
+- LSTM model - Logistic Regression & Naive Bayes.
+- Flask for Deployment.
 
 <p align="left"> In this project, my goal was to make a text classification by representing NLP-pipeline </p>
 
@@ -24,10 +32,4 @@
 
 5. **Model Training** 🏃‍♂️: 
 
-<h3 align="left">Tools & Libraries 🛒:</h3>
 
-- jupyter Notebook (python 3).
-- BeautifulSoup for web scraping.
-- NLTK for text processing.
-- LSTM model - Logistic Regression & Naive Bayes.
-- Flask for Deployment.
