@@ -30,6 +30,8 @@
 - Apply Lemmatization to the texts.
 - Save the final processed dataframe to be used in the next step of Model Training.
 
-5. **Model Training** 🏃‍♂️: 
+5. **Model Training** 🏃‍♂️: The data was good enough to be fitted on the used models and the results was greatly satisfying specially whith deep learning model (LSTM) than classical ML using ( Logistic Regression & Naive Bayes ).
+
+6. **Project Deployment** 🎨: I used flask which is easy to use and give you the advantage of deploying your project as a web service.
 
 
